@@ -1,0 +1,7 @@
+C:\Users\Vitaly\documents\visual studio 2012\Projects\sort-names\sort-names.Tests\bin\Debug\sort-names.Tests.dll
+C:\Users\Vitaly\documents\visual studio 2012\Projects\sort-names\sort-names.Tests\bin\Debug\sort-names.Tests.pdb
+C:\Users\Vitaly\documents\visual studio 2012\Projects\sort-names\sort-names.Tests\obj\Debug\sort-names.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Vitaly\documents\visual studio 2012\Projects\sort-names\sort-names.Tests\obj\Debug\sort-names.Tests.dll
+C:\Users\Vitaly\documents\visual studio 2012\Projects\sort-names\sort-names.Tests\obj\Debug\sort-names.Tests.pdb
+C:\Users\Vitaly\documents\visual studio 2012\Projects\sort-names\sort-names.Tests\bin\Debug\sort-names.exe
+C:\Users\Vitaly\documents\visual studio 2012\Projects\sort-names\sort-names.Tests\bin\Debug\sort-names.pdb

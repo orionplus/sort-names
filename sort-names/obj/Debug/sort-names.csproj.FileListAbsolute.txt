@@ -1,0 +1,5 @@
+c:\users\vitaly\documents\visual studio 2012\Projects\sort-names\sort-names\bin\Debug\sort-names.exe.config
+c:\users\vitaly\documents\visual studio 2012\Projects\sort-names\sort-names\bin\Debug\sort-names.exe
+c:\users\vitaly\documents\visual studio 2012\Projects\sort-names\sort-names\bin\Debug\sort-names.pdb
+c:\users\vitaly\documents\visual studio 2012\Projects\sort-names\sort-names\obj\Debug\sort-names.exe
+c:\users\vitaly\documents\visual studio 2012\Projects\sort-names\sort-names\obj\Debug\sort-names.pdb
